@@ -5,7 +5,7 @@ import webExtension, { readJsonFile } from 'vite-plugin-web-extension';
 import VueI18nPlugin from '@intlify/unplugin-vue-i18n/vite';
 import copy from 'rollup-plugin-copy';
 
-const APPID_CHROME = 'hhfnghjdeddcfegfekjeihfmbjenlomm';
+const APPID_CHROME = 'jgedijhhmdihbmmpcmpffhoamleffkod';
 const browser = process.env.TARGET || 'chrome';
 
 function generateManifest() {

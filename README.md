@@ -13,6 +13,8 @@ And you can see your overall stats.
 
 ![image](https://github.com/CODEPANDA-1122/Web-Time-Management/blob/main/src/assets/readme2.png)
 
+![image](https://github.com/CODEPANDA-1122/Web-Time-Management/blob/main/src/assets/readme3.png)
+
 # Install as an extension from source
 
 1. Download the latest available version and unarchive to your preferred location (whichever suits you).
